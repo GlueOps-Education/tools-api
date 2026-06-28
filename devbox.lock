@@ -1,73 +1,73 @@
 {
   "lockfile_version": "1",
   "packages": {
-    "pipenv@2025.0.3": {
-      "last_modified": "2025-07-13T22:45:35Z",
-      "resolved": "github:NixOS/nixpkgs/a421ac6595024edcfbb1ef950a3712b89161c359#pipenv",
+    "pipenv@2026.0.3": {
+      "last_modified": "2026-04-16T08:46:55Z",
+      "resolved": "github:NixOS/nixpkgs/b86751bc4085f48661017fa226dee99fab6c651b#pipenv",
       "source": "devbox-search",
-      "version": "2025.0.3",
+      "version": "2026.0.3",
       "systems": {
         "aarch64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/r7h57jrda26xyb1g3g2nbl0h00za2yg4-pipenv-2025.0.3",
+              "path": "/nix/store/f48c3h9bjml8i6l905c78s0j52rdbqcn-pipenv-2026.0.3",
               "default": true
             },
             {
               "name": "dist",
-              "path": "/nix/store/xw9rnw4sxad2c7cfa7s6sm09934n5hs6-pipenv-2025.0.3-dist"
+              "path": "/nix/store/az3r7ax1rrj3x59zarvi835d45j4zb9i-pipenv-2026.0.3-dist"
             }
           ],
-          "store_path": "/nix/store/r7h57jrda26xyb1g3g2nbl0h00za2yg4-pipenv-2025.0.3"
+          "store_path": "/nix/store/f48c3h9bjml8i6l905c78s0j52rdbqcn-pipenv-2026.0.3"
         },
         "aarch64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/jgibmzkxwr9ds0i8ms8nmpvqjsgcyfmh-pipenv-2025.0.3",
+              "path": "/nix/store/0y4hbmrcpvrwp085j69r3m2bqjjiqxwr-pipenv-2026.0.3",
               "default": true
             },
             {
               "name": "dist",
-              "path": "/nix/store/f8gg4hxh4q5r3pvymb3xpp2r88y5ijrp-pipenv-2025.0.3-dist"
+              "path": "/nix/store/rb6b3p3cj2kc4ykmlm8nllrb22p7v67c-pipenv-2026.0.3-dist"
             }
           ],
-          "store_path": "/nix/store/jgibmzkxwr9ds0i8ms8nmpvqjsgcyfmh-pipenv-2025.0.3"
+          "store_path": "/nix/store/0y4hbmrcpvrwp085j69r3m2bqjjiqxwr-pipenv-2026.0.3"
         },
         "x86_64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/y6hjxjf3w4a5fm5pdasmz10dhn0l84vp-pipenv-2025.0.3",
+              "path": "/nix/store/zfzzzda1y1dx88miylw6lfg5x3iah8x6-pipenv-2026.0.3",
               "default": true
             },
             {
               "name": "dist",
-              "path": "/nix/store/zr123q9w6gp9b4f7vfyxqayjdphb584j-pipenv-2025.0.3-dist"
+              "path": "/nix/store/b74k8v879jkc0nmc08fakj9mdlcwplpz-pipenv-2026.0.3-dist"
             }
           ],
-          "store_path": "/nix/store/y6hjxjf3w4a5fm5pdasmz10dhn0l84vp-pipenv-2025.0.3"
+          "store_path": "/nix/store/zfzzzda1y1dx88miylw6lfg5x3iah8x6-pipenv-2026.0.3"
         },
         "x86_64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/wh4hwjrkip77pnm5yb61wqiqys73vb2r-pipenv-2025.0.3",
+              "path": "/nix/store/y5smpms2s8gz2hhw0sbcsscp9wnczwmh-pipenv-2026.0.3",
               "default": true
             },
             {
               "name": "dist",
-              "path": "/nix/store/kx3ranycccwnnwm7y3c7caqiyqbjdrxa-pipenv-2025.0.3-dist"
+              "path": "/nix/store/8d4314y7bjz9iil1pxksdq1723pgixk3-pipenv-2026.0.3-dist"
             }
           ],
-          "store_path": "/nix/store/wh4hwjrkip77pnm5yb61wqiqys73vb2r-pipenv-2025.0.3"
+          "store_path": "/nix/store/y5smpms2s8gz2hhw0sbcsscp9wnczwmh-pipenv-2026.0.3"
         }
       }
     },
     "python-full@3.13.5": {
       "last_modified": "2025-07-13T22:45:35Z",
-      "plugin_version": "0.0.4",
+      "plugin_version": "0.0.5",
       "resolved": "github:NixOS/nixpkgs/a421ac6595024edcfbb1ef950a3712b89161c359#python313Full",
       "source": "devbox-search",
       "version": "3.13.5",
