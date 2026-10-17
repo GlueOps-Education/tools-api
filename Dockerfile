@@ -1,4 +1,4 @@
-FROM jetpackio/devbox:0.17.2@sha256:e7076042a6f58003e7e306691949912415387d286c879a917f0994d92d323698
+FROM jetpackio/devbox:0.18.3@sha256:95c4ce88daa54e0c070a45896c75fbdfeac582a62eafcc6c1477e33c78b5967a
 
 # Installing your devbox project
 WORKDIR /code
